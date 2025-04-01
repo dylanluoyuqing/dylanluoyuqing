@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm a student from HUST.
 
-- Lang: Python/C++/C
+- Lang: Python / C++ / C
 - Field: Robotics / Computer Vison 
 - 🔭 I’m currently working on SLAM 
 - 💬 Ask me about what you want to ask

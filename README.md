@@ -2,7 +2,7 @@
 
 - Lang: Python / C++ / C
 - Field: Robotics / Computer Vison 
-- 🔭 I’m currently working on SLAM 
+- 🔭 I’m currently working on Multi-Robot systems
 - 💬 Ask me about what you want to ask
 - 📫 How to reach me: dylanluo@hust.edu.cn
  
